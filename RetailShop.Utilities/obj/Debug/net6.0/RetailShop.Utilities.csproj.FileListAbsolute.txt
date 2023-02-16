@@ -1,0 +1,12 @@
+D:\Training\SwaggerTraining\RetailShop.Utilities\bin\Debug\net6.0\RetailShop.Utilities.deps.json
+D:\Training\SwaggerTraining\RetailShop.Utilities\bin\Debug\net6.0\RetailShop.Utilities.dll
+D:\Training\SwaggerTraining\RetailShop.Utilities\bin\Debug\net6.0\RetailShop.Utilities.pdb
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\RetailShop.Utilities.csproj.AssemblyReference.cache
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\RetailShop.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\RetailShop.Utilities.AssemblyInfoInputs.cache
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\RetailShop.Utilities.AssemblyInfo.cs
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\RetailShop.Utilities.csproj.CoreCompileInputs.cache
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\RetailShop.Utilities.dll
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\refint\RetailShop.Utilities.dll
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\RetailShop.Utilities.pdb
+D:\Training\SwaggerTraining\RetailShop.Utilities\obj\Debug\net6.0\ref\RetailShop.Utilities.dll
